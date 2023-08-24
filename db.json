@@ -1,0 +1,77 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Bóng đá ",
+      "description": "Mô tả cho bóng đá"
+    },
+    {
+      "id": 2,
+      "name": "Cầu lông",
+      "description": "Mô tả cho cầu lông"
+    },
+    {
+      "id": 3,
+      "name": "Bơi lội",
+      "description": "Mô tả cho bơi lội"
+    },
+    {
+      "id": 4,
+      "name": "Thể dục thể hình",
+      "description": "Mô tả cho thể dục thể hình"
+    },
+    {
+      "id": 5,
+      "name": "Tennis",
+      "description": "Mô tả cho tennis"
+    },
+    {
+      "id": 6,
+      "name": "Quần vợt",
+      "description": "Mô tả cho quần vợt"
+    },
+    {
+      "id": 7,
+      "name": "Bóng bàn",
+      "description": "Mô tả cho bóng bàn"
+    },
+    {
+      "name": "sdf",
+      "description": "sdf",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": "Qúy",
+      "email": "ttm1022013@gmail.com",
+      "phone": "0969025884",
+      "address": "Hà Nội",
+      "password": "123456"
+    },
+    {
+      "name": "Thiều",
+      "email": "thieu123456@gmail.com",
+      "phone": "0965612584",
+      "address": "Hà Nội",
+      "password": "654321"
+    }
+  ],
+  "uploads": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ]
+}
